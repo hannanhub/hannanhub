@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Application Development and Java 
 - 🌱 I’m currently learning Android Application Development and Java 
 - 💞️ I’m looking to collaborate on Android Apps and Java
-- 📫 Reach me through my email which is hannanhub@gmail.com 
+- 📫 Reach me through my facebook messenger https://www.facebook.com/hannanhub 
 
 <!---
 hannanhub/hannanhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
