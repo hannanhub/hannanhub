@@ -1,4 +1,4 @@
-- 👋 Hi, I’m abdyl hannan laskar
+- 👋 Hi, I’m abdul hannan laskar
 - 👀 I’m interested in android application development and java 
 - 🌱 I’m currently learning android application development and ava 
 - 💞️ I’m looking to collaborate on android Apps and java
